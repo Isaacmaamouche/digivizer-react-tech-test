@@ -1,3 +1,10 @@
+My attempt at Digivizer's React technical test
+https://github.com/digivizer/react-tech-test
+
+Tbhe goal was to render a table based on JSON.
+By default, the table must be sorted by a specific column (Total Engagement).
+The user can sort by any column by clicking on it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
